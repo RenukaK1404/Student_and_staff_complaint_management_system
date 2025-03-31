@@ -50,22 +50,26 @@ The **Student & Staff Feedback and Complaint Management System (CIT 12)** is a d
 ## 🛠️ Installation & Setup
 ### **Prerequisites:**
 - Python (3.x)
-- Firebase/MySQL/MongoDB setup
+- Firebase/MySQL/MongoDB setup (optional)
 
 ### **Steps to Set Up Locally:**
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/CIT12-Feedback-System.git
-   cd CIT12-Feedback-System
+   git clone https://github.com/RenukaK1404/Student_and_staff_complaint_management_system.git
+   cd Student_and_staff_complaint_management_system
    ```
 2. Install dependencies:
+  ```sh
+   pip install streamlit pandas matplotlib
+  ```
+   Additionally, if you're missing any libraries, install them separately:
    ```sh
-   pip install -r requirements.txt
+   pip install streamlit pandas matplotlib hashlib datetime os io re
    ```
 3. Set up database configuration in `.env` file.
 4. Run the Streamlit application:
    ```sh
-   streamlit run app.py
+   streamlit run "file_path"
    ```
 5. Open the provided URL in a browser.
 6. Access the dashboard and test the complaint submission workflow.
