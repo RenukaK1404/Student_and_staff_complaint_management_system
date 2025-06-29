@@ -2,7 +2,7 @@
 A Streamlit-based complaint management system for students and staff.
 
 ## 📌 Overview
-The **Student & Staff Feedback and Complaint Management System (CIT 12)** is a digital solution designed to streamline the process of collecting, categorizing, tracking, and resolving feedback and complaints across various departments within an educational institution. This system enhances transparency, improves communication between stakeholders, and ensures prompt resolution of concerns.
+The **Student & Staff Feedback and Complaint Management System** is a digital solution designed to streamline the process of collecting, categorizing, tracking, and resolving feedback and complaints across various departments within an educational institution. This system enhances transparency, improves communication between stakeholders, and ensures prompt resolution of concerns.
 
 ## 🔥 Key Features
 - **User Authentication**: Secure login for students, staff, and administrators.
